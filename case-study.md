@@ -1,3 +1,6 @@
+# Profile photo for CV
+
+
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
 
 At first I was very excited and I thought it would go very quickly. But as I progressed, I found it harder than I expected.
@@ -9,6 +12,8 @@ Luckily, my sister had a friend who took pictures for a living and had her own s
 The photo shoot itself took quite a long time, because we tried to find a suitable pose that would support the overall idea. But it was fun, and we certainly weren't bored.
 
 During the photoshopping of the whole photo, I cursed a little bit but I took it as a challenge and I kept trying not to be too grounded and rather create something crazy.
+
+![try.jpg.](./img/try-jpg)
 
 Already during the photo shoot we chose a few faphores and then we decided between a few photos.
 
