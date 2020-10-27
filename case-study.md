@@ -13,7 +13,7 @@ The photo shoot itself took quite a long time, because we tried to find a suitab
 
 During the photoshopping of the whole photo, I cursed a little bit but I took it as a challenge and I kept trying not to be too grounded and rather create something crazy.
 
-![try.jpg.](./img/try-jpg)
+![try.jpg.](./img/try.jpg)
 
 Already during the photo shoot we chose a few faphores and then we decided between a few photos.
 
