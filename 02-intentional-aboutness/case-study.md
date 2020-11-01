@@ -1,8 +1,4 @@
-# Profile photo for CV
-
-![try.jpg.](./try.jpg)
-
-![413A9129.jpg](./413A9129.jpg)
+### Profile photo for CV
 
 
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
@@ -21,8 +17,13 @@ During the photographing of the whole photo, I cursed a little bit but I took it
 Already during the photo shoot we chose a few favourites and then we decided between a few photos. In the end, my sister and I also had sibling photos. 
 After choosing a photo, the real fun in editing a photo in photoshop started, sometimes it was really terrible and I wanted to throw it away. It didn't happen without the help of my friend, but in the end I struggled with it
 
+![413A9129](https://user-images.githubusercontent.com/73489631/97812152-b4856f00-1c7f-11eb-9213-782a42149eae.jpg)
+
 
 The result is a slightly expressive photo, which, however, hides a smaller story about my personality. The fact that I'm not wearing a T-shirt means that I'm not hiding anything, I'm just like everyone else (I'm a human) and I'm not afraid to go to the market with my skin. And it also stops everyone and notices the photos. There is also some development of ideas that go through my head and I am able to turn them into an explosive idea (not always in a good way).
 The word invente only underlines the overall story. Overall, I would describe the photo by one sentence, I'm a shooter who burns one idea after another.
+
 ![57187564_2176267065788497_5825737792558202880_n](https://user-images.githubusercontent.com/73489631/97812119-75571e00-1c7f-11eb-8ccc-4eedb99eeb50.jpg)
+
+
 In the end, some people may think it's over the line, but you should not be on the ground and surprise the world when you want someone to noticed you have to create a discussion through your work, only then will someone start to care about you.
