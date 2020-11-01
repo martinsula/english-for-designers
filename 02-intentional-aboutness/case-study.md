@@ -1,7 +1,5 @@
 # Profile photo for CV
 
-![try.jpg.](try.jpg)
-
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
 
 At first I was very excited and I thought it would go very quickly. But as I progressed, I found it harder and it took longer than I expected. 
@@ -15,9 +13,12 @@ The photo shoot itself took quite a long time, because we tried to find a suitab
 
 During the photographing of the whole photo, I cursed a little bit but I took it as a challenge and I kept trying not to be too grounded and rather create something crazy. It was interesting to try posing as a model, but I couldn't stand all day long. 
 
+![413A8796](https://user-images.githubusercontent.com/73489631/97812279-92d8b780-1c80-11eb-9331-7fd741874a74.jpg)
+
 Already during the photo shoot we chose a few favourites and then we decided between a few photos. In the end, my sister and I also had sibling photos. 
 After choosing a photo, the real fun in editing a photo in photoshop started, sometimes it was really terrible and I wanted to throw it away. It didn't happen without the help of my friend, but in the end I struggled with it
 
+![413A9129](https://user-images.githubusercontent.com/73489631/97812418-86089380-1c81-11eb-808f-cabc0ce36e96.jpg)
 
 The result is a slightly expressive photo, which, however, hides a smaller story about my personality. The fact that I'm not wearing a T-shirt means that I'm not hiding anything, I'm just like everyone else (I'm a human) and I'm not afraid to go to the market with my skin. And it also stops everyone and notices the photos. There is also some development of ideas that go through my head and I am able to turn them into an explosive idea (not always in a good way).
 The word invente only underlines the overall story. Overall, I would describe the photo by one sentence, I'm a shooter who burns one idea after another.
