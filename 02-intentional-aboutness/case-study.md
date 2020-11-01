@@ -2,7 +2,8 @@
 
 ![try.jpg.](./try.jpg)
 
-![413A9129.jpg] 
+![413A9129.jpg](./413A9129.jpg)
+
 
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
 
