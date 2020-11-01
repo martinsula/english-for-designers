@@ -2,6 +2,9 @@
 
 ![try.jpg.](./try.jpg)
 
+![413A9129.jpg] (413A9129.jpg)
+
+
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
 
 At first I was very excited and I thought it would go very quickly. But as I progressed, I found it harder and it took longer than I expected. 
