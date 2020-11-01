@@ -1,6 +1,6 @@
 # Profile photo for CV
 
-![try.jpg.](try.jpg)
+![try.jpg.](./try.jpg)
 
 As a graphic design student, I was tasked with creating a profile picture for my portfolio. 
 
