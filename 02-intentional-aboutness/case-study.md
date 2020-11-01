@@ -8,8 +8,9 @@ At first I was very excited and I thought it would go very quickly. But as I pro
 I thought about what kind of post the profile picture itself should have. At first glance, it should be surprised or interested in something in any way. After that, I thought about processing a photo that should show my skills and abilities in graphic design.
 I also wanted the profile photo to reveal something about me and to describe me. Even then, I decided that it would be a photoshop customization. But I needed studio photos to do it.
 
-![54257064_545069992566528_6993002516543700992_o](https://user-images.githubusercontent.com/73489631/97812221-252c8b80-1c80-11eb-8777-88ff53552457.jpg)
-Photo from moodboard
+![54257064_545069992566528_6993002516543700992_o](https://user-images.githubusercontent.com/73489631/97812221-252c8b80-1c80-11eb-8777-88ff53552457.jpg) Photo from moodboard
+
+
 
 Luckily, my sister had a friend who took pictures for a living and had her own studio. So we could create professional photos.
 
