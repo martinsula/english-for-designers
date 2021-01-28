@@ -1,7 +1,7 @@
 # Martin Šula
 
 - [About](02-intentional-aboutness/aboutme.md)
-- [Experience](03-curriculum-vitae/cv-Sula.md)
+- [Experience](03-curriculum-vitae/cv-sula.md)
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
