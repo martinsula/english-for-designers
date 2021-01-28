@@ -11,7 +11,7 @@
   - [Voice a Tone](04-voice-tone/voice-tone-worksheet.md)
 
 - [Presentation Storytelling](05-presentation-stoytelling/presentation-2020-Sula.md)
-  - [PDF Presentation](05-presentation-stoytelling/prezentace ajina.pdf)
+  - [PDF Presentation](05-presentation-stoytelling/prezentace-ajina.pdf)
   
 - [Semestr Takeways](06-semester-takeaways/semester-takeways.md)
 
