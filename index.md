@@ -5,7 +5,7 @@
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
-- [Character & Description](character_&_description/aj_letter_ěula.pdf)
+- [Character & Description](character_&_description/aj_letter_sula.pdf)
 
 - [Copying Chapter](04-voice-tone/copying-chapter-6.md)
   - [Voice a Tone](04-voice-tone/voice-tone-worksheet.md)
