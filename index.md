@@ -13,7 +13,7 @@
 - [Presentation Storytelling](05-presentation-stoytelling/presentation-2020-Sula.md)
   - [PDF Presentation](05-presentation-stoytelling/prezentace ajina.pdf)
   
-- [Semestr Takeways](06- semestr-takeways/semester-takeways.md)
+- [Semestr Takeways](06-semestr-takeways/semester-takeways.md)
 
 
 ---
