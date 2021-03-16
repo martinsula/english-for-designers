@@ -6,7 +6,7 @@ The theoretical part defines this sport and the necessary requirements for its c
 The practical part analyzes the organization of CrossFit races using the tools described in the theoretical part and continues to describe the entire 
 creation of a unified visual style of a sporting event, including a complete graphic design. 
 
-![Mind Map](08-clarity-first/mind_map_frame_1.jpg)
+![Mind Map](mind_map_crossfit.jpg)
 </details>
 
 ## Outline
