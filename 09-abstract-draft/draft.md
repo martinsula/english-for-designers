@@ -1,4 +1,5 @@
-##Abstract
+#Abstract
+
 The topic of this bachelor's thesis is the process of creating and designing the visual style of Crossfit races in the Czech Republic. 
 The theoretical part is focused on corporate identity and the individual aspects that help create it. 
 It further defines a brand as a visual element along with a visual style, through marketing communication focused on social networks. 
