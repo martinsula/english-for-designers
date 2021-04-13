@@ -46,8 +46,6 @@ it is also possible to create a certain symbol in the form of the best athletes 
 
 ### Logotype
 
-### Labels
-
 ### Social media
 
 ### Other materials
