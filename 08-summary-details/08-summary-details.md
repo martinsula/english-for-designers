@@ -44,6 +44,7 @@ it is also possible to create a certain symbol in the form of the best athletes 
 ### Inspiration 
 
 ### Moodboard
+(img/moodboard _erb.jpg)
 
 ### Logotype
 
