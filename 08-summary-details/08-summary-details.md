@@ -46,8 +46,9 @@ it is also possible to create a certain symbol in the form of the best athletes 
 ### Moodboard
 (img/moodboard _erb.jpg)
 moodboard _erb.jpg
-[Map of czech republic](moodboard _erb.jpg)
+[moodboard erb](08-summary-details/moodboard _erb.jpg)
 ### Logotype
+
 
 ### Illustrations
 
