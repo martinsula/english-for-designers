@@ -41,20 +41,14 @@ fights of the best athletes. from individual gyms or the declaration of the ulti
 community support, as well as raising the level of Czech athletes and their preparation for international competitions. Through these races, 
 it is also possible to create a certain symbol in the form of the best athletes who will have the best results and use them to promote this sport in the Czech Republic.
 
-### Inspiration 
 
 ### Moodboard
-(img/moodboard _erb.jpg)
-moodboard _erb.jpg
-[moodboard erb](08-summary-details/moodboard _erb.jpg)
+
 ### Logotype
-
-
-### Illustrations
 
 ### Labels
 
-### Instagram
+### Social media
 
 ### Other materials
 
