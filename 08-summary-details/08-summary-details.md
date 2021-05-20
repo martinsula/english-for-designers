@@ -12,7 +12,6 @@ Keywords: marketing communication, visual communication, graphic design, media d
 
 Keywords: marketing communication, visual communication, graphic design, media design design, CrossFit, sporting event, visual style
 
-
 ## CrossFit definition
 CrossFit includes constantly changing functional movements performed at a relatively high intensity. All exercises are based on functional movements. 
 It thus reflects the best aspects of gymnastics, weightlifting, running, rowing and other disciplines, also referred to as the key movements of life. 
@@ -41,15 +40,27 @@ fights of the best athletes. from individual gyms or the declaration of the ulti
 community support, as well as raising the level of Czech athletes and their preparation for international competitions. Through these races, 
 it is also possible to create a certain symbol in the form of the best athletes who will have the best results and use them to promote this sport in the Czech Republic.
 
-
 ### Moodboard
+In the final logo and symbol I tried to write certain characteristic elements from the whole sport, therefore it is a reflection of several elements. In their search I tried to focus on those that are really used in this sport every day. One of them is the very greeting shown by the gesture after completing the demanding Wod, the greeting is done with a tap of the fist, see below moodboard 1. Furthermore, the "Grip" grip itself, or the locked "Hook Grip" thumb, is a method used to grasp the barbell used in certain exercises. It is also a reflection of the overall energy, which is very specific and you can already recognize only in this sport. It is both the energy of the community itself, which is immediately apparent when entering each gym, the tension that arises in the races themselves, when you are mostly your own opponent, and the energy after the completion of Wods. From this part came a symbol that represents the overall visual form.
+
+
+The second moodboard points to certain foundations of the whole sport and its atmosphere. CrossFit's largest base is its community. It consists of both people who move around the sport and people you practise with and meet in individual gyms, where all the members help each other, encourage each other and create a certain sports family. The Olympic weightlifting discipline named the market, English for "Snatch", is also captured here as a representative of a certain pillar, which is later expressed in the overall logo.
 
 ### Logotype
 
 ### Social media
 
+# Instagram
+Instagram Instagram is the most important channel of communication with the public and with the overall visual style of the races themselves. Here the greatest emphasis is placed on promoting the overall races and the sport itself. The very style of communication on this social network is a little different from other networks or channels both by the content itself and its presentation. Here you need to keep still active users who will enjoy the content and possibly want to share it further. These include the contributions of the races themselves, as well as some interesting things about the sport, the creation of funny and original videos or photos, the creation of various interactions with the watching users through, for example, surveys or smaller competitions. It is mainly a fresh and fun form of presentation to interest both the CrossFit community itself and users who are not familiar with the sport and are interested in the content. It is only an outline of the overall way of presenting the content, the development of communication in the future will depend on possible stats.
+
+
 ### Other materials
 
+# Print
+Race name tags of individual athletes are included in the presses. Each athlete will receive their race name tag, which they will always attach to their race area. Another is a prize plate with price money, graphic processing of the winners' grade, various posters used to decorate the overall event and to promote potential sponsors, as well as picture posters or banners that will draw attention to the ongoing races in the given city or region. Picture posters contain basic information about the races in question, i.e. the date of the event, the location and any links to social networks. These posters also work in width for possible use e.g. on a billboard.
+
+# Merchandising 
+Merchandising represents the largest application area of the overall visual style. Included in merchandising are all sorts of items most used in the sport. For example, this includes t-shirts of competitors, assistants, judges, commercial T-shirts, sweatshirts, pouches, socks, patches, pins, bracelets, caps, bottles and medals for winning athletes. Everything will be sold primarily on the day of the on-site events. If there is interest in merch outside the races, there is the possibility to set up a possible online shop via the website in the future. Merchandising offers some collaboration with the organizing gymnasium in the form of merging the logo or its dominant colors into an overall visual style. As a result, each organizer's gym would have its own original merch, which would serve both to promote the concept of races and individual gyms.
 
 ## References
 1. VYSEKALOVÁ, Jitka, Jiří MIKEŠ a Jan BINAR. Image a firemní identita
