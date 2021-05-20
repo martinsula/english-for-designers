@@ -3,7 +3,7 @@
 - [About](02-intentional-aboutness/aboutme.md)
 - [Experience](03-curriculum-vitae/cv-sula) 
 
-## Work
+## Work Semester 1
 - [Case Study](02-intentional-aboutness/case-study.md)
 - [Character & Description](07-character-&-description/aj letter sula.pdf)
 
@@ -15,6 +15,10 @@
   
 - [Semestr Takeways](06-semestr-takeways/semester-takeways.md)
 
+## Work Semester 2
 
+- [Character a description](07-character-&-description/aj letter sula.pdf)
+- [Clarity first](08-clarity-first/thesis_outline.md)
+- [Abstract draft](09-abstract-draft/draft.md)
 ---
 [Home](https://github.com/martinsula/)
