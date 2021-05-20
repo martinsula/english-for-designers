@@ -20,5 +20,6 @@
 - [Clarity first](08-clarity-first/thesis_outline.md)
 - [Summary Details](08-summary-details/08-summary-details.md)
 - [Abstract draft](09-abstract-draft/draft.md)
+
 ---
 [Home](https://github.com/martinsula/)
