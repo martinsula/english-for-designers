@@ -17,8 +17,8 @@
 
 ## Work Semester 2
 
-- [Character a description](07-character-&-description/aj letter sula.pdf)
 - [Clarity first](08-clarity-first/thesis_outline.md)
+- [Summary Details](08-summary-details/08-summary-details.md)
 - [Abstract draft](09-abstract-draft/draft.md)
 ---
 [Home](https://github.com/martinsula/)
